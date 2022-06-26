@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Payne
 - 👀 I’m interested in all the things
-- 🌱 I'm currently learning about Optimization algorithms 
+- 🌱 I'm currently learning about optimizing algorithms 
 - 📫 How to reach me ...
 
 <!---
